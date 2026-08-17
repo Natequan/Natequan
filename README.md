@@ -7,7 +7,7 @@ I build and document **cyber-physical systems**: PLC communications, embedded ha
 My current direction is the intersection of **mechatronics + networking + programming + cybersecurity**, with a long-term focus on **OT / ICS security, embedded/product security and industrial automation**.
 
 [![Portfolio](https://img.shields.io/badge/Technical_Portfolio-View_projects-8b5cf6?style=for-the-badge)](https://natequan.github.io/ot-cyber-roadmap/portfolio.html)
-[![Nocturne](https://img.shields.io/badge/Nocturne-Learning_roadmap-111827?style=for-the-badge)](https://natequan.github.io/ot-cyber-roadmap/)
+[![Nocturne](https://img.shields.io/badge/Nocturne-Learning_roadmap-111827?style=for-the-badge)](https://natequan.github.io/ot-cyber-roadmap/index.html)
 
 ---
 
@@ -57,7 +57,7 @@ Developed a cyber-physical irrigation prototype using capacitive soil-moisture s
 - OT / ICS defensive architecture and industrial protocol analysis
 - A documented Schneider / Modbus lab that evolves from automation work into an **OT-security case study**
 
-My learning system and weekly engineering evidence are tracked in **[Nocturne](https://natequan.github.io/ot-cyber-roadmap/)**.
+My learning system and weekly engineering evidence are tracked in **[Nocturne](https://natequan.github.io/ot-cyber-roadmap/index.html)**.
 
 ---
 
